@@ -4,6 +4,8 @@ a business requirements standpoint, we will be building a basic Express server u
 
 [Deployment URL- 1](Secondexpressserver-env.eba-px7q2zq9.us-west-2.elasticbeanstalk.com)
 
+[CLI Deployment](http://basic-express-cli-env.eba-ceyiedga.us-west-2.elasticbeanstalk.com/)
+
 ## Installation
 
 - `git clone https://github.com/mhendricks96/basic-express-server.git`
